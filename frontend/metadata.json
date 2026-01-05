@@ -1,0 +1,5 @@
+{
+  "name": "AutoWeb Agent",
+  "description": "A semi-autonomous web interaction agent that observes, reasons, and interacts with a simulated environment using Gemini AI.",
+  "requestFramePermissions": []
+}
