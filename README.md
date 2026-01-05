@@ -12,23 +12,22 @@ An autonomous web automation system built with **FastAPI** and **React**, powere
 ## 🖼️ Dashboard Visuals
 You can showcase the agent in action here. To add your own screenshots, place them in the `/assets` folder and link them below:
 
-<!-- <div align="center">
-  <img src="assets/dashboard_preview.png" width="800" alt="Main Dashboard Dashboard">
-  <br>
-  <em>Main Mission Control Dashboard</em>
-</div> -->
-
 <div align="center">
-  <img src="assets/first.jpg" width="400" alt="Data Extraction">
-  <img src="assets/second.jpg" width="400" alt="Execution Log">
-  <img src="assets/third.jpg" width="400" alt="Data Extraction">
-  <img src="assets/fourth.jpg" width="400" alt="Execution Log">
-  <img src="assets/five.jpg" width="400" alt="Data Extraction">
-  <img src="assets/six.jpg" width="400" alt="Execution Log">
-  <img src="assets/seven.jpg" width="400" alt="Execution Log">
-
+  <h3>🚀 Mission Control Gallery</h3>
+  <img src="assets/first.jpg" width="850" alt="Main Dashboard Dashboard">
   <br>
-  <em>Agent Mission Control Visuals</em>
+  
+  <details>
+    <summary><b>📸 View More Agent Observations (Slider)</b></summary>
+    <br>
+    <img src="assets/second.jpg" width="400"> <img src="assets/third.jpg" width="400">
+    <br>
+    <img src="assets/fourth.jpg" width="400"> <img src="assets/five.jpg" width="400">
+    <br>
+    <img src="assets/six.jpg" width="400"> <img src="assets/seven.jpg" width="400">
+  </details>
+  <br>
+  <em>Interactive Autonomous Agent - Real-time Visualization</em>
 </div>
 
 ## 🛠️ Project Structure
