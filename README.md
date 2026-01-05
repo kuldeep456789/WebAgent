@@ -19,8 +19,15 @@ You can showcase the agent in action here. To add your own screenshots, place th
 </div>
 
 <div align="center">
-  <img src="assets/data_extraction.png" width="400" alt="Data Extraction">
-  <img src="assets/execution_log.png" width="400" alt="Execution Log">
+  <img src="assets/first.png" width="400" alt="Data Extraction">
+  <img src="assets/second.png" width="400" alt="Execution Log">
+  <img src="assets/third.png" width="400" alt="Data Extraction">
+  <img src="assets/fourth.png" width="400" alt="Execution Log">
+  <img src="assets/five.png" width="400" alt="Data Extraction">
+  <img src="assets/six.png" width="400" alt="Execution Log">
+  <img src="assets/seven.png" width="400" alt="Execution Log">
+  <
+
   <br>
   <em>Clean Data Extraction (Left) vs. High-Value Action Logs (Right)</em>
 </div>
