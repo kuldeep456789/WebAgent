@@ -12,24 +12,23 @@ An autonomous web automation system built with **FastAPI** and **React**, powere
 ## 🖼️ Dashboard Visuals
 You can showcase the agent in action here. To add your own screenshots, place them in the `/assets` folder and link them below:
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/dashboard_preview.png" width="800" alt="Main Dashboard Dashboard">
   <br>
   <em>Main Mission Control Dashboard</em>
-</div>
+</div> -->
 
 <div align="center">
-  <img src="assets/first.png" width="400" alt="Data Extraction">
-  <img src="assets/second.png" width="400" alt="Execution Log">
-  <img src="assets/third.png" width="400" alt="Data Extraction">
-  <img src="assets/fourth.png" width="400" alt="Execution Log">
-  <img src="assets/five.png" width="400" alt="Data Extraction">
-  <img src="assets/six.png" width="400" alt="Execution Log">
-  <img src="assets/seven.png" width="400" alt="Execution Log">
-  <
+  <img src="assets/first.jpg" width="400" alt="Data Extraction">
+  <img src="assets/second.jpg" width="400" alt="Execution Log">
+  <img src="assets/third.jpg" width="400" alt="Data Extraction">
+  <img src="assets/fourth.jpg" width="400" alt="Execution Log">
+  <img src="assets/five.jpg" width="400" alt="Data Extraction">
+  <img src="assets/six.jpg" width="400" alt="Execution Log">
+  <img src="assets/seven.jpg" width="400" alt="Execution Log">
 
   <br>
-  <em>Clean Data Extraction (Left) vs. High-Value Action Logs (Right)</em>
+  <em>Agent Mission Control Visuals</em>
 </div>
 
 ## 🛠️ Project Structure
